@@ -1,0 +1,7 @@
+requests
+python-whois
+cryptography
+pyfiglet
+exifread
+base64
+webbrowser
