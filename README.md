@@ -72,9 +72,48 @@ Fast, lightweight, and easy to use.
 
 ---
 
+# Menu
+
+    ------------------------------------------------------------
+    Made by glitch
+    TikTok: https://tiktok.com/@glitch_blackhat
+    Website: glitch-tools.netlify.app
+    ------------------------------------------------------------
+    
+    NETWORK TOOLS:
+     [1]  Ping Scan            [2]  Port Scan
+     [3]  DNS Lookup           [4]  Reverse DNS
+     [5]  Dirb Scanner         [6]  IP Geolocation
+     [7]  Whois Lookup         [8]  Subdomain Finder
+     [9]  Rate Limit Tester    [10] Robots.txt Check
+    
+    WEB / SECURITY TESTING:
+     [11] Easy Fuzzing         [18] Google Dorks
+    
+    CRYPTO / SECURITY:
+     [12] MD5 Hash
+     [13] SHA256 Hash
+     [14] Password Generator
+     [15] File Encrypt/Decrypt
+    
+    Random Shit:
+     [16] Notes
+     [17] Reverse Text
+     [19] ASCII Art Generator
+     [20] TikTok Username Check
+     [21] Instagram Username search
+     [22] Extract image exif data
+     [23] base64 Docode/Encode
+     [24] Password strenght checker
+    ------------------------------------------------------------
+    
+    Enter your choice(1-25): 
+
 # Installation
 
 ```bash
+cd Desktop
+
 git clone https://github.com/glitch-2-ui/Flex-Tool-V2.git
 
 cd Flex-Tool-V2
